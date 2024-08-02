@@ -241,6 +241,10 @@ article.active {
   font-weight: var(--fw-500);
 }
 
+.h5 span {
+  color: var(--vegas-gold);
+}
+
 .article-title {
   position: relative;
   padding-bottom: 7px;
