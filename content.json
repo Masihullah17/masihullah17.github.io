@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Why AI is Transforming Industries",
+    "summary": "AI automates tasks, improves efficiency, and unlocks new business opportunities in every sector.",
+    "category": "Technology"
+  },
+  {
+    "id": 2,
+    "title": "Stock Market Basics",
+    "summary": "Stocks represent ownership in a company. Prices fluctuate based on demand, earnings, and market trends.",
+    "category": "Finance"
+  },
+  {
+    "id": 3,
+    "title": "The Power of Habits",
+    "summary": "Small, consistent actions shape our long-term behavior. Build positive habits for lasting change.",
+    "category": "Self-Improvement"
+  },
+  {
+    "id": 4,
+    "title": "How Cryptocurrencies Work",
+    "summary": "Crypto is decentralized digital money secured by blockchain technology, reducing reliance on banks.",
+    "category": "Finance"
+  },
+  {
+    "id": 5,
+    "title": "The Science of Sleep",
+    "summary": "Quality sleep improves memory, mood, and health. Aim for 7-9 hours daily for optimal performance.",
+    "category": "Health"
+  },
+  {
+    "id": 6,
+    "title": "5-Minute Productivity Hack",
+    "summary": "Use the '2-minute rule': If a task takes less than 2 minutes, do it immediately to avoid procrastination.",
+    "category": "Productivity"
+  },
+  {
+    "id": 7,
+    "title": "The Psychology of Decision Making",
+    "summary": "Humans rely on biases and heuristics to make choices. Awareness of cognitive biases improves decisions.",
+    "category": "Psychology"
+  },
+  {
+    "id": 8,
+    "title": "Why Reading Books Boosts Intelligence",
+    "summary": "Reading enhances critical thinking, expands knowledge, and strengthens memory and focus.",
+    "category": "Education"
+  },
+  {
+    "id": 9,
+    "title": "Minimalism: Less is More",
+    "summary": "Minimalism helps you focus on what truly matters by eliminating excess possessions and distractions.",
+    "category": "Lifestyle"
+  },
+  {
+    "id": 10,
+    "title": "The Future of Remote Work",
+    "summary": "Remote work is reshaping industries by offering flexibility, cost savings, and improved work-life balance.",
+    "category": "Work"
+  }
+]
